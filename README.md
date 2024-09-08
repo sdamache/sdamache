@@ -53,8 +53,8 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 # 🎓 Certifications:
-- AWS Certified Cloud Practitioner (2020)
-- AWS Certified Solutions Architect Associate (2020)
+- AWS Certified Cloud Practitioner (2023)
+- AWS Certified Solutions Architect Associate (2023)
 - Azure Fundamentals (2023)
 
 # 📊 GitHub Stats:
